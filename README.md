@@ -26,8 +26,6 @@ For details, see the "[Contributing Guidelines][contribute-guide]".
 
 ## Credits
 
-### Contributors
-
 ## License
 
 This project is published under [MIT License][license].
