@@ -4,9 +4,8 @@
   <!-- markdownlint-disable-next-line -->
   # XXW
 
-  A personal page for technical writing.
+  A personal page for learning and project.
 
-  
 
   [**Live Demo** →][demo]
 
@@ -14,28 +13,10 @@
 
 ## Features
 
-- Dark Theme
-- Localized UI language
-- Pinned Posts on Home Page
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagrams & Flowcharts
-- Dark Mode Images
-- Embed Media
-- Comment Systems
-- Built-in Search
-- Atom Feeds
-- PWA
-- Web Analytics
-- SEO & Performance Optimization
-
-## Documentation
-
-To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
+- Operation Research
+- Optimization Theory
+- Industry Engineering
+- Logistic and Supply Chain
 
 ## Contributing
 
